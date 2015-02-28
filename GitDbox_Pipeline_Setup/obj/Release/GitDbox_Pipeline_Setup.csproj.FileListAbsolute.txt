@@ -1,0 +1,12 @@
+C:\Users\ian.rich\Documents\GitHub\GitDbox_Pipeline_Setup\GitDbox_Pipeline_Setup\bin\Release\GitDbox_Pipeline_Setup.exe.config
+C:\Users\ian.rich\Documents\GitHub\GitDbox_Pipeline_Setup\GitDbox_Pipeline_Setup\bin\Release\GitDbox_Pipeline_Setup.exe
+C:\Users\ian.rich\Documents\GitHub\GitDbox_Pipeline_Setup\GitDbox_Pipeline_Setup\bin\Release\GitDbox_Pipeline_Setup.pdb
+C:\Users\ian.rich\Documents\GitHub\GitDbox_Pipeline_Setup\GitDbox_Pipeline_Setup\obj\Release\MainWindow.baml
+C:\Users\ian.rich\Documents\GitHub\GitDbox_Pipeline_Setup\GitDbox_Pipeline_Setup\obj\Release\MainWindow.g.cs
+C:\Users\ian.rich\Documents\GitHub\GitDbox_Pipeline_Setup\GitDbox_Pipeline_Setup\obj\Release\App.g.cs
+C:\Users\ian.rich\Documents\GitHub\GitDbox_Pipeline_Setup\GitDbox_Pipeline_Setup\obj\Release\GitDbox_Pipeline_Setup_MarkupCompile.cache
+C:\Users\ian.rich\Documents\GitHub\GitDbox_Pipeline_Setup\GitDbox_Pipeline_Setup\obj\Release\GitDbox_Pipeline_Setup.g.resources
+C:\Users\ian.rich\Documents\GitHub\GitDbox_Pipeline_Setup\GitDbox_Pipeline_Setup\obj\Release\GitDbox_Pipeline_Setup.Properties.Resources.resources
+C:\Users\ian.rich\Documents\GitHub\GitDbox_Pipeline_Setup\GitDbox_Pipeline_Setup\obj\Release\GitDbox_Pipeline_Setup.csproj.GenerateResource.Cache
+C:\Users\ian.rich\Documents\GitHub\GitDbox_Pipeline_Setup\GitDbox_Pipeline_Setup\obj\Release\GitDbox_Pipeline_Setup.exe
+C:\Users\ian.rich\Documents\GitHub\GitDbox_Pipeline_Setup\GitDbox_Pipeline_Setup\obj\Release\GitDbox_Pipeline_Setup.pdb

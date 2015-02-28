@@ -102,10 +102,12 @@ namespace GitDbox_Pipeline_Setup
         private void InstallGit(object sender, RoutedEventArgs e)
         {   
             // install chocolatey
-            System.Diagnostics.Process.Start(@"C:\@powershell -NoProfile -ExecutionPolicy unrestricted -Command ""iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1'))"" && SET PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin");
-        
+            //System.Diagnostics.Process.Start(@"C:\@powershell -NoProfile -ExecutionPolicy unrestricted -Command ""iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1'))"" && SET PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin");
+
+            System.Diagnostics.Process.Start("cmd", @"@powershell new-item");
+
             // install git w/ chocolatey
-            System.Diagnostics.Process.Start(@"C:\choco install git.install -params '""/GitOnlyOnPath""'");
+            //System.Diagnostics.Process.Start(@"C:\choco install git.install -params '""/GitOnlyOnPath""'");
 
         }
 
